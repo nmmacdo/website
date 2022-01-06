@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Noah MacDonald # Website name
-baseurl: "https://noahmacdonald.org" # Website URL
+baseurl: "https://nmmacdo.github.io/" # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
