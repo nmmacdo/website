@@ -1,7 +1,7 @@
 ---
 title: "A theoretical examination of cash-back credit cards and their effect on consumer spending"
 
-authors: [ "Noah MacDonald", "Brent Evans"]
+authors: ["Noah MacDonald", "Brent Evans"]
 
 doi: ""
 
